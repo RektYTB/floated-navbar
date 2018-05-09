@@ -12,8 +12,8 @@ _my new baby is called nevo_
 #### it's a floated navbar with some cool design i guess
 
   
-`div class = "floated"`  
-![animated navbar from zaid alzyoud](nav.gif)  
+`<div class = "floated">`  
+![animated navbar from zaid alzyoud](navbar.gif)  
   
 
 ###### this thing will never stop floating never ever
