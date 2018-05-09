@@ -1,15 +1,22 @@
-# floated-navbar
-floated navbar with HTML &amp; CSS (cool ) -.- 
-<br>
+Floated navbar with HTML & CSS
+==============================
 
-**some cool new animations to my navbar want to share :3**
-<br>
-check it out
-<br>
-> Never stop dreaming - it's me
+  
 
-<br>
+get out from the old look of your navbar
 
-![animated navbar by zaid alzyoud](navbar.gif)
+**GET SOME FUN MAN 0.0**  
+  
+_my new baby is called nevo_
 
-***up coming new navbar trick's watch out***
+#### it's a floated navbar with some cool design i guess
+
+  
+`div class = "floated"`  
+![animated navbar from zaid alzyoud](nav.gif)  
+  
+
+###### this thing will never stop floating never ever
+
+  
+**Up Coming Navbar's tricks stay tuned Bay :(**
