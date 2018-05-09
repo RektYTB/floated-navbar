@@ -1,0 +1,36 @@
+body {
+  background-color: #aefefaee;
+}
+
+ul {
+  margin-right: 500px;
+  width: 320px;
+  list-style-type:none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  color: white;
+  border: 3px solid #fff;
+  width: 379px;
+  border-radius: 15px 50px 30px;
+  font-family: 'Gaegu', cursive;
+}
+li {
+ float: left;
+}
+a            {
+  padding: 10px;
+  display: block;
+  width: auto;
+  background-color: #FFB750;
+  text-decoration: none;
+  color: inherit;
+  font-family: 'Gaegu', cursive;
+  font-size: 1em;
+}
+li a:hover {
+  background-color: #FF7D5E;
+}
+.home {
+  border-right: 2px;
+}
